@@ -24,8 +24,7 @@
     "probot": "9.3.4",
     "probot-config": "1.1.0",
     "regex-parser": "2.2.10",
-    "request": "2.88.0",
-    "semver": "6.3.0"
+    "request": "2.88.0"
   },
   "devDependencies": {
     "eslint": "5.16.0",
